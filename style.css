@@ -1,0 +1,6 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background: linear-gradient(20deg, black, rgba(255, 0, 0, 0.479));
+}
